@@ -1,0 +1,311 @@
+body{
+    margin: 0px;    
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.sec1{
+    width: 100%;
+    height: 70px;
+    box-shadow: 0 2px 2px -2px gray;
+}
+
+.sec1-1{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sec1-1-1-img{
+    width: 120px !important;
+    height: 60px !important;
+    padding: 12px 0px;
+}
+
+.sec1-1-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sec1-1-2-a-1{
+    text-decoration: none;
+    color: #606162;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 16px;
+}
+
+.sec1-1-2-a-1:hover{
+    cursor: pointer;
+    color: #27A9E1;
+}
+
+.sec1-1-2-a-2{
+    text-decoration: none;
+    color: #27A9E1;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0px 10px;
+    border: 1px solid #27A9E1;
+    line-height: 23px;
+    margin-right: 16px;
+}
+
+.sec1-1-2-a-2:hover{
+    background-color: #27A9E1;
+    color: white;
+    cursor: pointer;
+}
+
+.sec1-1-2-a-3{
+    text-decoration: none;
+    color: #535455;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0px 10px;
+    background-color: #FFDE5B;
+    line-height: 23px;
+    border: 1px solid #FFDE5B;
+    margin-right: 16px;
+}
+
+.sec1-1-2-a-3:hover{
+    color: #333333;
+    cursor: pointer;
+    background-color: #fdd328;
+}
+
+.sec2-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.sec2-div-1{
+    background-image: url('./images/basement_bathroom_renovations.jpg');
+    width: 778.66px;
+    height: 518px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    opacity: 100%;
+    font-size: 24px;
+}
+
+.sec2-div-2-div1{
+    background-image: url('./images/fall_maintenance_checklist.jpg');
+    width: 387.33px;
+    height: 170px;
+    background-size: cover;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 2px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 10px;
+    color: white;
+}
+.sec2-div-2-div2{
+    background-image: url('./images/update_porch_fall.jpg');
+    width: 387.33px;
+    height: 170px;
+    margin-bottom: 4px;
+    background-size: cover;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 2px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 10px;
+    color: white;
+}
+.sec2-div-2-div3{
+    background-image: url('./images/shutterstock.jpg');
+    width: 387.33px;
+    height: 170px;
+    background-size: cover;
+    margin-left: 4px;
+    margin-right: 2px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 10px;
+    color: white;
+}
+
+.sec3{
+    width: 90%;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.sec3-div1-h3{
+    color: #27A9E1;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sec3-div1-h3:hover{
+    color: #313131;
+}
+
+.sec3-div1-div1{
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+
+.sec3-div1-div1-img1{
+    width: 246.66px;
+    height: 164.44px;
+}
+
+.sec3-div1-div1-a1{
+    text-decoration: none;
+    font-size: 15px;
+    color: #333333;
+    font-weight: bold;
+    width: 256.66px !important;
+}
+
+.sec3-div1-div1-a1:hover{
+    color: #6eb48c;
+}
+
+.sec3-div1-div{
+    padding: 0px 10px;
+}
+
+.sec3-div1-h3-div{
+    border-bottom: 3px solid #27A9E1;
+    margin: 0px 10px;
+}
+
+.sec3-div2{
+    padding: 25px 20px;
+    color: #535455;
+    background-color: #F8F9FA;
+    border: 1px solid #DEDFE0;
+    width: 338px;
+    height: 260px;
+    text-align: center;
+    /* margin-top: 30px; */
+    margin: 0 auto;
+}
+
+.sec3-div2-div1-form-h2{
+    padding: 0px 0px 10px;
+    font-size: 20px;
+    color: #333333;
+}
+
+.sec3-div2-div1-form-select{
+    color: #535455;
+    font-size: 15px;
+    background-color: white;
+    margin: 0px 0px 10px;
+    padding: 10px;
+    border: 1px solid #DEDFE0;
+    margin-top: 12px;
+    width: 300px;
+}
+
+.sec3-div2-div1-form-input{
+    color: #535455;
+    font-size: 15px;
+    background-color: white;
+    margin: 0px 0px 10px;
+    padding: 10px;
+    border: 1px solid #DEDFE0;
+    width: 276px;
+    margin-top: 12px;
+}
+
+.sec3-div2-div1-form-btn{
+    width: 296px;
+    background-color: #27A9E1;
+    color: white;
+    border: 1px solid #0c91ca;
+    /* /* text-align: center; */
+    height: 40px;
+    margin-top: 12px;
+}
+
+.sec3-div2-div1{
+    align-items: center;
+}
+
+.act55{
+    background-color: #232F3A;
+    margin-top: 40px;
+}
+
+.act5{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.act5-h3{
+    color: white;
+    font-size: 15px;
+}
+
+.act5-a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.pad{
+    padding: 50px 21px;
+}
+
+.pad1{
+    text-align: left;
+}
+
+.act5-img{
+    width: 15px;
+    height: 15px;
+    margin: 0;
+}
+
+.last{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: white;
+    font-size: 10px;
+    margin-top: 6px;
+    background-color: #1877F2;
+    border-radius: 2px;
+    padding-left: 4px;
+    height: 20px;
+}
+
+.imager{
+    width: 188.02px;
+    height: 41.61px;
+    padding: 7.5px;
+}
+
+.para{
+    color: white;
+    font-size: 13px;
+}
+
+.last1{
+    position: relative;
+    top: 100px;
+}
